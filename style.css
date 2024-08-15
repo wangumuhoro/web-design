@@ -1,0 +1,25 @@
+#heading1{
+    color: pink;
+    margin-top: 10%;
+}
+#image1{
+    margin-top: 20%;
+}
+#heading2{
+    color: green;
+}
+#button {
+    background-color: greenyellow;
+    width: 100px;
+    color: red;
+    height: 80px;
+
+}
+.navbar ul{
+    background-color: purple;
+    text-align: center;
+    padding: 16px;
+}
+.navbar a:hover{
+    background-color: yellow;
+}
